@@ -1,9 +1,13 @@
 # Supported Unreal Engine game AES keys.
+
 Most of the games FModel supports don't have AES keys, but if they do, they typically don't change.
 This repository is made to consolidate what the AES key(s) are for games that have rarely or unchanging AES keys.
 The games listed here are games with known keys that are not available as part of the [AES Key Collection](https://cs.rin.ru/forum/viewtopic.php?f=10&t=100672)
 
 ## Keys
-| Game | Key |
-| --- | --- |
-| BattleCore Arena | 0x8A75AFDF1C74AB55B79DC1DD4ABE4B01360A059D77F243EF4EFADA41A59D71A0 |
+
+| Game                                   | Key                                                                |
+| :------------------------------------- | :----------------------------------------------------------------- |
+| BattleCore Arena                       | 0x8A75AFDF1C74AB55B79DC1DD4ABE4B01360A059D77F243EF4EFADA41A59D71A0 |
+| Dragon Quest X Offline                 | 0x8B51D59ED5C495E1ECF7E2960F218F4868A31CEF3DBC5248F70CADCF809D1193 |
+| Librarian: Tidy Up the Arcane Library! | 0x1165728E4F63C64C691EDC58FFEBAA7D1185652433FBA66EED113D21355A6FFB |
